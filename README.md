@@ -1,2 +1,2 @@
 # blaBpmKeyTagger
-Extract key, bpm
+Extract key, bpm using https://getsongbpm.com/
